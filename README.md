@@ -24,27 +24,33 @@
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/f699bf3118fdd6aaea4d133a561f4da2242c88c4/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/users/signupform.jsp#L193)
 
 - ### space/list 페이지
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 space/list페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/space/list.jsp)
 + vue.js를 사용하여 원하는 지역 선택 기능
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/f699bf3118fdd6aaea4d133a561f4da2242c88c4/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/space/list.jsp#L272)
 
 - ### space/detail 페이지
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 space/detail 페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/space/detail.jsp)
 
 - ### Q&A 페이지 
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 Q&A페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/tree/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/qna)
 
 - ### Review 페이지 
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 Review페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/tree/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/review)
 
 - ### 판매자 메뉴 페이지
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 판매자페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/tree/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/seller)
 
 - ### 사용자 메뉴 페이지
+`design` `퍼블리싱`
 + html , css , js, bootstrap 을 사용하여 사용자페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/tree/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/users)
