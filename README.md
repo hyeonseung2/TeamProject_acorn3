@@ -12,7 +12,7 @@
 + html , css , js, bootstrap 을 사용하여 메인페이지 design 퍼블리싱
 [코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/home.jsp)
 + 최근 등록된 리뷰 글자수 제한
-[코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/home.jsp.#258)
+[코드보러가기](https://github.com/hyeonseung2/TeamProject_acorn3/blob/master/TeamProject_SpaceRental/src/main/webapp/WEB-INF/views/home.jsp.py#L256)
 
 - ### signup 페이지
 `design` `퍼블리싱` `정규화`
